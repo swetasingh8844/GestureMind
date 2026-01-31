@@ -63,4 +63,3 @@ The **O-Sign (Pinch)** acts as a global interrupt signal.
 
 ---
 
-*Built by a World-Class Senior Frontend Engineer.*
