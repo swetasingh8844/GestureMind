@@ -3,6 +3,7 @@
 **GestureMind** is a high-performance, futuristic hand-gesture controller that bridges the gap between physical movement and digital action. Using **MediaPipe Hands** for real-time landmark tracking and **Gemini 3 Flash** for neural intent decoding, it allows users to control media and navigate web services through intuitive hand signs.
 
 ---
+<img width="1880" height="890" alt="image" src="https://github.com/user-attachments/assets/32b01e4c-9b20-413a-aef2-dbb63534daa6" />
 
 ## 🚀 Core Features
 
@@ -63,4 +64,3 @@ The **O-Sign (Pinch)** acts as a global interrupt signal.
 
 ---
 
-*Built by a World-Class Senior Frontend Engineer.*
