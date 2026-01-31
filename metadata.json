@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GestureMind: AI Device Controller",
+  "description": "A futuristic hand-gesture controller powered by MediaPipe and Gemini 3, allowing you to control virtual desktop actions with intuitive hand movements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
